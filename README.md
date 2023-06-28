@@ -7,8 +7,8 @@ Sources :
 
 - Juliette Venel. Modélisation mathématique et numérique de mouvements de foule. Mathématiques [math]. Université Paris Sud - Paris XI, 2008. Français. tel-00346035
 
-[img1](https://github.com/basilesch/crowd_TIPE/blob/main/img1.png)
+![img1](https://github.com/basilesch/crowd_TIPE/blob/main/img1.png)
 
-[img2](https://github.com/basilesch/crowd_TIPE/blob/main/img2.png)
+![img2](https://github.com/basilesch/crowd_TIPE/blob/main/img2.png)
 
-[img3](https://github.com/basilesch/crowd_TIPE/blob/main/img3.png)
+![img3](https://github.com/basilesch/crowd_TIPE/blob/main/img3.png)
